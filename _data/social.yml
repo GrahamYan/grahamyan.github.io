@@ -7,3 +7,6 @@
 - title: GitHub
   url: https://github.com/GrahamYan
   icon: fab fa-github
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=K2SepWgAAAAJ&hl=en
+  icon: fas fa-graduation-cap
