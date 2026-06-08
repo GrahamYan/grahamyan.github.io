@@ -11,7 +11,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
   <!-- ================= TALK 1: Universal HWP Ansatz (Bilibili) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
     <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
-      <img src="/assets/talks/talk1_cover.jpg" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 1 Cover">
+      <img src="/assets/talks/talk1_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 1 Cover">
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
     </a>
     <div style="flex: 2; min-width: 280px;">
@@ -31,7 +31,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
   <!-- ================= TALK 2: AI and Quantum for Electronic Structures (SJTU) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
     <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
-      <img src="/assets/talks/talk2_cover.jpg" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 2 Cover">
+      <img src="/assets/talks/talk2_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 2 Cover">
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
     </a>
     <div style="flex: 2; min-width: 280px;">
@@ -50,7 +50,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
   <!-- ================= TALK 3: Synthesis and Compilation (Bilibili) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
     <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
-      <img src="/assets/talks/talk3_cover.jpg" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 3 Cover">
+      <img src="/assets/talks/talk3_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 3 Cover">
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
     </a>
     <div style="flex: 2; min-width: 280px;">
@@ -70,7 +70,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
   <!-- ================= TALK 4: Preliminary Exploration of QML (SJTU - 2023) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
   <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
-    <img src="/assets/talks/talk4_cover.jpg" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 4 Cover">
+    <img src="/assets/talks/talk4_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 4 Cover">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
   </a>
   <div style="flex: 2; min-width: 280px;">
