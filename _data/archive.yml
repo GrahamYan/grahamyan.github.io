@@ -1,9 +1,9 @@
-- type: projects
-  title: Projects
-  url: /projects/
+- type: team
+  title: Research & Team
+  url: /Team/
 - type: publications
   title: Publications
   url: /publications/
-- type: Co-ops
-  title: Tags
-  url: /tags/
+- type: talks
+  title: Talks
+  url: /talks/
