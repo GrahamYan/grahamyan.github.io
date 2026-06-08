@@ -4,42 +4,43 @@ layout: default
 
 {% include home-header.html %}
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <section class="post-entry">
-    <h2 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h2>
+<!-- ================= 1. 个人简介 (About Me) ================= -->
+<section style="margin-top: 2rem;">
+  <h2>About Me</h2>
+  <p>
+    I am <strong>Ge Yan (严格)</strong>, currently working as a Postdoctoral Researcher specializing in the intersection of 
+    <strong>Artificial Intelligence (AI)</strong> and <strong>Quantum Computing</strong>. My research primarily focuses on leveraging 
+    deep learning algorithms and tensor networks to simulate, control, and optimize high-dimensional quantum systems.
+  </p>
+</section>
 
-    <div class="post-meta">
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-      {%- if jekyll.environment == "production" and site.disqus -%}
-        <span> • </span>
-        <a class="comment-count" href="{{ post.url | relative_url }}#disqus_thread">
-          <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
-        </a>
-      {%- endif -%}
-    </div>
+<!-- ================= 2. 最新动态 (News) ================= -->
+<section style="margin-top: 2rem;">
+  <h2>News</h2>
+  <ul style="line-height: 1.8;">
+    <li><strong>[2026.06]</strong> 🎉 Our latest paper on Quantum Machine Learning has been accepted by <em>[Journal/Conference Name]</em>!</li>
+    <li><strong>[2026.03]</strong> 🚀 Invited to give a talk on "Tensor Networks in the AI Era" at <em>[Conference Name]</em>.</li>
+  </ul>
+</section>
 
-    <p>{{ post.excerpt | strip_html }}</p>
-  </section>
-  {% endfor %}
-  {%- if jekyll.environment == "production" and site.disqus -%}
-    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
-  {%- endif -%}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<!-- ================= 3. 代表作/论文发表 (Selected Publications) ================= -->
+<section style="margin-top: 2rem;">
+  <h2>Selected Publications</h2>
+  <ol style="line-height: 1.8; padding-left: 1.2rem;">
+    <!-- 论文 1 -->
+    <li style="margin-bottom: 1rem;">
+      <strong>Ge Yan</strong>, et al. "Quantum Control Optimization via Deep Reinforcement Learning." 
+      <em>Physical Review Letters</em>, 2025. 
+      <br>
+      <a href="#" style="color: #00f2fe; text-decoration: underline;">[PDF]</a> 
+      <a href="#" style="color: #00f2fe; text-decoration: underline; margin-left: 0.5rem;">[Code]</a>
+    </li>
+    <!-- 论文 2 -->
+    <li style="margin-bottom: 1rem;">
+      <strong>Ge Yan</strong>, et al. "Tensor Network Simulation Accelerated by Neural Networks." 
+      <em>arXiv preprint</em>, 2024. 
+      <br>
+      <a href="#" style="color: #00f2fe; text-decoration: underline;">[arXiv]</a>
+    </li>
+  </ol>
+</section>
