@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Research & Team
-permalink: /Team/
-type: team
+permalink: /team/
 ---
 
 ### 🔬 Research Vision
