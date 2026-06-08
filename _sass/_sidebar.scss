@@ -27,6 +27,8 @@
   margin: 0;
   font-size: 2rem;
   font-weight: 900;
+  // 为大名字也加上微弱的文字阴影，使其在亮色背景下更有立体感和科技感
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
 
   a:hover,
   a:focus {
@@ -37,9 +39,12 @@
 .masthead-tagline {
   padding: 0;
   margin: 0;
-  font-size: 1.25rem;
-  font-weight: 400;
-  opacity: .7;
+  font-size: 1.15rem;      // 稍微收紧字号，让多行排版更精致
+  font-weight: 600;       // 将原本的 400 粗度提升至 600（中粗体），增强可读性
+  opacity: 1;             // 彻底去除半透明效果，让文字呈现 100% 的纯白色
+  line-height: 1.5;       // 优化换行后的行高间距，防止文字叠在一起
+  // 🔥 核心科技感微调：加入文字暗阴影，在亮色白云背景下为字体勾勒出一圈微弱的暗边，保证绝对清晰
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8), -1px -1px 4px rgba(0, 0, 0, 0.8);
 }
 
 .navigation-list {
@@ -60,6 +65,7 @@
   font-size: 90%;
   border-bottom: 2px solid;
   border-color: inherit;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 
   &:hover,
   &:focus {
@@ -76,6 +82,9 @@
 
 .social-icon {
   padding: var(--spacer);
+  // 为底部三个社交图标也注入微弱阴影
+  filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.7));
+  
   &:hover,
   &:focus {
     color: var(--link-hover-color);
