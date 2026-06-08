@@ -1,3 +1,6 @@
+- type: home
+  title: Home
+  url: /
 - type: team
   title: Research & Team
   url: /team/
