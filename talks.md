@@ -54,7 +54,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
     </a>
     <div style="flex: 2; min-width: 280px;">
-      <span style="font-size: 0.8rem; color: #00f2fe; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em;">[Invited Technical Seminar]</span>
+      <span style="font-size: 0.8rem; color: #00f2fe; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em;">[Invited Community Seminar]</span>
       <h3 style="margin: 0.4rem 0 0.6rem 0; color: #fff; line-height: 1.3;">Quantum Circuit Synthesis and Compilation Optimization: Overview and Prospects</h3>
       <p style="margin: 0 0 0.8rem 0; font-size: 0.9rem; opacity: 0.85; font-style: italic;">
         Presented at <strong>MindSpore Quantum Community</strong>.
@@ -74,7 +74,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
   </a>
   <div style="flex: 2; min-width: 280px;">
-    <span style="font-size: 0.8rem; color: #bc47ff; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em;">[Pioneering Seminar]</span>
+    <span style="font-size: 0.8rem; color: #bc47ff; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em;">[Invited Institutional Talk]</span>
     <h3 style="margin: 0.4rem 0 0.6rem 0; color: #fff; line-height: 1.3;">A Preliminary Exploration of Quantum Machine Learning</h3>
     <p style="margin: 0 0 0.8rem 0; font-size: 0.9rem; opacity: 0.85; font-style: italic;">
       Presented at the <strong>School of Computer Science, Shanghai Jiao Tong University</strong>, 2023.
