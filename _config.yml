@@ -2,10 +2,10 @@
 title: Dr. Ge Yan (严格)
 description: Postdoctoral Researcher in AI + Quantum Computing \n @ Nanyang Technological University
 url: https://grahamyan.github.io
-avatar: /head.jpeg
+avatar: /head.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
