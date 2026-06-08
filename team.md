@@ -6,8 +6,7 @@ type: team
 ---
 
 ### 🔬 Research Vision
-My research thrives on the synergy of **Artificial Intelligence** and **Quantum Computing**. We are dedicated to exploring next-generation algorithms for **Quantum Error Correction (QEC)**, Quantum Machine Learning (QML), and Tensor Networks to pave the way toward scalable, fault-tolerant quantum systems.
-
+My research thrives on the synergy of **Artificial Intelligence** and **Quantum Computing**. We are dedicated to exploring next-generation algorithms for **Quantum Error Correction (QEC)**, including decoding algorithms, syndrome extraction circuit synthesis and optimization, code discovery, etc.
 ---
 
 ### 👥 Co-supervised Students & Interns
