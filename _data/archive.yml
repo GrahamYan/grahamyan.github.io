@@ -1,9 +1,9 @@
-- type: Google Scholar
-  title: Google Scholar
-  url: https://scholar.google.com/citations?user=K2SepWgAAAAJ&hl=en
-#- type: categories
-#  title: Categories
-#  url: /categories/
-- type: tags
+- type: projects
+  title: Projects
+  url: /projects/
+- type: publications
+  title: Publications
+  url: /publications/
+- type: Co-ops
   title: Tags
   url: /tags/
