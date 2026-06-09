@@ -10,7 +10,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
 
   <!-- ================= TALK 1: Universal HWP Ansatz (Bilibili) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
-    <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
+    <a href="https://www.bilibili.com/video/BV1PWNGeyEt6/?spm_id_from=333.337.search-card.all.click&vd_source=7e350405d839f6d81e2fed75f97d50e6" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
       <img src="/assets/talks/talk1_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 1 Cover">
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
     </a>
@@ -30,7 +30,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
 
   <!-- ================= TALK 2: AI and Quantum for Electronic Structures (SJTU) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
-    <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
+    <a href="https://www.bilibili.com/video/BV1qSR3Y6ENE/?spm_id_from=333.337.search-card.all.click&vd_source=7e350405d839f6d81e2fed75f97d50e6" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
       <img src="/assets/talks/talk2_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 2 Cover">
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
     </a>
@@ -49,7 +49,7 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
 
   <!-- ================= TALK 3: Synthesis and Compilation (Bilibili) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
-    <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
+    <a href="https://www.bilibili.com/video/BV1BPUmYxEqh/?spm_id_from=333.337.search-card.all.click&vd_source=7e350405d839f6d81e2fed75f97d50e6" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
       <img src="/assets/talks/talk3_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 3 Cover">
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
     </a>
@@ -62,14 +62,14 @@ Here is a selected list of my invited talks, community seminars, and recorded pr
       <p style="font-size: 0.88rem; line-height: 1.6; text-align: justify; opacity: 0.75; margin-bottom: 1rem;">
         <strong>Abstract:</strong> This talk reviews the critical milestones in quantum circuit logic design and compilation adaptation (e.g., qubit mapping and routing). Recent literature indicates that integrating Artificial Intelligence (AI) significantly scales up optimization precision and efficiency. Building upon this trend, we explore the feasibility of an all-in-one co-design paradigm that merges logical circuit synthesis with hardware-level compilation optimization. By capitalizing on the cognitive capabilities of machine learning, this framework diminishes manual design overhead, enhances execution fidelity, and accelerates the validation of quantum supremacy on physical hardware.
       </p>
-      <a href="[https://bilibili.com](https://www.bilibili.com/video/BV1BPUmYxEqh/?spm_id_from=333.337.search-card.all.click&vd_source=7e350405d839f6d81e2fed75f97d50e6)" target="_blank" style="display: inline-block; font-size: 0.85rem; color: #00f2fe; border: 1px solid #00f2fe; padding: 0.25rem 0.75rem; border-radius: 4px; text-decoration: none; font-weight: 500;">📺 Watch on Bilibili</a>
+      <a href="https://www.bilibili.com/video/BV1BPUmYxEqh/?spm_id_from=333.337.search-card.all.click&vd_source=7e350405d839f6d81e2fed75f97d50e6" target="_blank" style="display: inline-block; font-size: 0.85rem; color: #00f2fe; border: 1px solid #00f2fe; padding: 0.25rem 0.75rem; border-radius: 4px; text-decoration: none; font-weight: 500;">📺 Watch on Bilibili</a>
       <a href="https://arxiv.org/pdf/2407.00736?" target="_blank" style="display: inline-block; font-size: 0.85rem; color: #fff; background: rgba(255,255,255,0.08); padding: 0.25rem 0.75rem; border-radius: 4px; text-decoration: none; margin-left: 0.5rem;">📄 Related Paper</a>
     </div>
   </div>
 
   <!-- ================= TALK 4: Preliminary Exploration of QML (SJTU - 2023) ================= -->
   <div style="display: flex; gap: 1.8rem; background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); padding: 1.5rem; border-radius: 8px; align-items: flex-start; flex-wrap: wrap;">
-  <a href="https://bilibili.com" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
+  <a href="https://www.bilibili.com/video/BV18Q4y1s7Bt/?spm_id_from=333.337.search-card.all.click&vd_source=7e350405d839f6d81e2fed75f97d50e6" target="_blank" style="flex: 1; min-width: 220px; max-width: 260px; position: relative; display: block;">
     <img src="/assets/talks/talk4_cover.png" style="width: 100%; border-radius: 6px; border: 1px solid rgba(255,255,255,0.1); object-fit: cover;" alt="Talk 4 Cover">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 242, 254, 0.85); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #000; font-size: 1.1rem; font-weight: bold; box-shadow: 0 0 12px rgba(0,242,254,0.6);">▶</div>
   </a>
