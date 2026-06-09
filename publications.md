@@ -88,7 +88,7 @@ permalink: /publications/
 
 <div style="margin-bottom: 1.2rem;"></div>
 
-* X Lu, K Pan, J Yan, J Shan, W Wu, J Yan. 
+* X Lu, K Pan, **G Yan**, J Shan, W Wu, J Yan. 
   "Qas-bench: rethinking quantum architecture search and a benchmark." 
   In *International Conference on Machine Learning (ICML)*, 22880-22898, 2023.
 
