@@ -40,7 +40,7 @@ My research thrives on the synergy of **Artificial Intelligence** and **Quantum 
   <div style="background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: 8px; padding: 1rem; text-align: center;">
     <img src="/assets/team/zhenhao_zhong.jpg" style="width: 110px; height: 110px; border-radius: 50%; object-fit: cover; object-position: center; display: block; margin: 0 auto 0.8rem auto; border: 2px solid #00f2fe;">
     <h4 style="margin: 0 0 0.3rem 0; color: #fff;">Zhenhao Zhong</h4>
-    <p style="margin: 0; font-size: 0.85rem; opacity: 0.8;">Xi'an Jiaotong University (XJTU)</p>
+    <p style="margin: 0; font-size: 0.85rem; opacity: 0.8;">Xi'an Jiaotong University<br>(XJTU)</p>
     <span style="display: inline-block; margin-top: 0.5rem; font-size: 0.75rem; color: #00f2fe; background: rgba(0, 242, 254, 0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">with Yuxuan Du</span>
   </div>
 
